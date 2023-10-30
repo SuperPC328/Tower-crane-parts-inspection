@@ -1,0 +1,39 @@
+<RCC>
+  <qresource prefix="images">
+    <file>image/30033668854d68cdce65cfd1e8d9a706.jpeg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>icon/关闭.png</file>
+    <file>icon/方框.png</file>
+    <file>icon/最大化.png</file>
+    <file>icon/最小化.png</file>
+    <file>icon/垂直缩放.png</file>
+    <file>icon/打开信息.png</file>
+    <file>icon/定位.png</file>
+    <file>icon/放大.png</file>
+    <file>icon/高清摄像.png</file>
+    <file>icon/合并单元.png</file>
+    <file>icon/回车.png</file>
+    <file>icon/进入.png</file>
+    <file>icon/链接.png</file>
+    <file>icon/全屏.png</file>
+    <file>icon/视频.png</file>
+    <file>icon/缩小.png</file>
+    <file>icon/停止.png</file>
+    <file>icon/推广中.png</file>
+    <file>icon/文件.png</file>
+    <file>icon/文件夹.png</file>
+    <file>icon/信号.png</file>
+    <file>icon/暂停.png</file>
+    <file>icon/照相机.png</file>
+    <file>icon/视频.png</file>
+    <file>icon/文件.png</file>
+    <file>icon/文件夹.png</file>
+    <file>icon/信号.png</file>
+    <file>icon/照相机.png</file>
+    <file>icon/垂直缩放.png</file>
+    <file>icon/定位.png</file>
+    <file>icon/高清摄像.png</file>
+    <file>icon/暂停.png</file>
+  </qresource>
+</RCC>
