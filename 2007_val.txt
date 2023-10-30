@@ -1,0 +1,898 @@
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_10.jpg 437,197,549,318,5 223,635,318,718,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1023.jpg 192,284,417,805,6 733,822,856,942,0 721,1035,840,1137,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1030.jpg 603,228,637,272,1 592,115,631,159,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1045.jpg 488,547,676,929,3 758,1359,890,1586,11 380,724,409,769,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1109.jpg 305,257,966,1200,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1194.jpg 607,81,664,151,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1197.jpg 367,279,678,717,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_121.jpg 89,176,432,648,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1304.jpg 485,296,625,755,6 866,858,996,982,0 844,1079,953,1188,0 563,1279,641,1377,0 567,1184,638,1261,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1306.jpg 941,778,957,797,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1317.jpg 512,431,714,760,3 202,474,446,813,3 747,1042,821,1116,0 923,1007,993,1078,0 1014,930,1069,987,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1329.jpg 436,378,461,413,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1357.jpg 692,551,1065,759,11 40,690,443,930,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1359.jpg 472,445,647,826,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1362.jpg 449,345,762,681,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_137.jpg 324,438,558,707,2 721,414,917,692,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1372.jpg 473,329,814,774,1 443,859,621,1107,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1377.jpg 1,169,84,318,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1437.jpg 308,484,666,793,3 386,684,841,1053,3 628,15,698,89,0 703,260,760,321,0 659,461,708,516,0 421,434,470,479,0 223,457,273,503,0 149,612,197,655,0 229,567,258,605,0 243,652,278,682,0 2,937,64,1006,0 5,805,71,856,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_144.jpg 522,604,687,709,0 52,549,188,621,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_149.jpg 646,309,1074,552,11 6,287,359,522,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1570.jpg 528,219,702,454,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1591.jpg 492,314,685,525,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1781.jpg 40,887,192,1122,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_179.jpg 245,297,989,1084,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_186.jpg 35,1370,95,1426,0 413,1426,464,1481,0 148,1669,208,1734,0 72,1152,152,1223,0 286,1016,336,1061,0 640,609,782,814,2 339,615,449,821,2 663,973,743,1055,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1905.jpg 269,550,665,1042,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1910.jpg 195,413,776,688,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1927.jpg 412,495,625,703,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1933.jpg 107,404,508,1008,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1951.jpg 340,770,509,961,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1966.jpg 180,164,266,255,0 201,398,289,479,0 203,1127,344,1247,2 396,1116,536,1230,2 516,574,582,626,2 682,555,734,595,2 314,1620,386,1674,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_1987.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_199.jpg 415,584,1080,2160,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2042.jpg 59,464,207,648,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2068.jpg 348,1440,936,1863,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_211.jpg 144,552,247,653,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2136.jpg 551,238,680,395,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_217.jpg 214,677,633,1332,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_22.jpg 115,335,712,637,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_225.jpg 855,1296,934,1404,0 774,1390,840,1465,0 716,1289,760,1346,0 530,1444,622,1532,0 272,1479,373,1563,0 657,1102,695,1156,0 862,355,955,494,0 686,441,808,530,1 669,557,784,644,1 654,344,753,402,1 617,219,716,298,1 572,630,607,679,0 595,868,627,911,0 2,584,173,1051,3 220,660,247,705,0 249,902,278,946,0 220,560,246,604,0 582,372,630,433,0 763,3,834,96,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2279.jpg 769,606,977,823,0 810,1204,1025,1441,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_229.jpg 327,390,1176,1973,7 172,461,489,1321,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2336.jpg 266,1441,1071,2108,11 588,904,856,1180,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_238.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2464.jpg 377,958,582,1136,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2491.jpg 390,934,636,1132,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_254.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_262.jpg 546,620,569,659,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2645.jpg 271,558,832,1065,1 1,458,293,854,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2656.jpg 253,814,302,862,0 156,1341,214,1396,0 885,63,945,119,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2660.jpg 769,917,934,1075,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2677.jpg 789,848,927,1035,1 125,851,281,1053,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2682.jpg 275,1075,422,1249,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2683.jpg 308,504,814,954,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2690.jpg 501,197,736,484,1 619,1567,873,1860,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2765.jpg 197,339,736,688,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2784.jpg 383,461,508,628,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_288.jpg 191,570,390,976,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2887.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_29.jpg 502,611,601,662,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_294.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2983.jpg 390,383,507,526,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_2998.jpg 714,527,924,721,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3015.jpg 288,1167,777,1867,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3020.jpg 273,631,420,829,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3033.jpg 79,542,204,711,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3050.jpg 440,286,609,521,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3075.jpg 482,319,594,425,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3078.jpg 373,503,457,595,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3079.jpg 444,387,583,532,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3083.jpg 450,390,579,521,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3088.jpg 462,363,588,493,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3091.jpg 427,273,549,387,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3130.jpg 452,554,528,648,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3134.jpg 482,334,589,442,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3139.jpg 383,275,488,406,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3141.jpg 456,487,553,601,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3157.jpg 756,291,902,474,1 2,55,102,184,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3159.jpg 541,670,630,779,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3166.jpg 625,12,759,159,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3171.jpg 425,427,545,551,1 424,665,533,769,1 435,876,525,952,1 172,1037,256,1115,1 184,1171,275,1251,1 203,1295,284,1376,1 212,1405,282,1480,1 383,1079,460,1144,0 380,1197,459,1262,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3178.jpg 217,324,638,892,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_330.jpg 578,323,675,501,3 736,319,869,511,3 1083,196,1136,230,0 1101,136,1166,178,0 1134,215,1176,245,0 1066,88,1113,126,0 1126,42,1173,84,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3314.jpg 283,648,676,914,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3322.jpg 213,626,473,806,11 625,139,876,407,1 529,81,638,167,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3429.jpg 6,945,349,1358,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_343.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3435.jpg 95,348,160,406,0 139,637,206,698,0 359,812,417,867,0 624,776,684,836,0 791,562,850,620,0 767,268,829,334,0 599,346,648,398,0 550,74,609,140,0 264,110,327,173,0 271,1478,331,1538,0 309,1713,365,1770,0 428,1282,482,1334,0 876,1397,932,1453,0 577,1421,628,1466,0 452,1515,500,1562,0 726,1478,772,1527,0 897,1630,955,1686,0 321,565,367,614,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3467.jpg 899,115,954,167,0 389,427,445,482,0 428,827,463,865,0 506,765,535,789,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3469.jpg 939,353,988,400,0 327,594,386,644,0 386,962,422,1003,0 434,934,466,961,0 873,697,914,733,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3501.jpg 883,180,952,250,0 189,482,267,548,0 323,858,361,895,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3502.jpg 963,208,1023,263,0 294,557,359,605,0 401,935,443,972,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3597.jpg 395,105,694,448,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3599.jpg 421,495,656,815,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3615.jpg 491,671,728,1005,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3765.jpg 1,72,828,1127,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3932.jpg 785,618,932,825,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3934.jpg 434,1410,587,1542,1 304,1443,442,1555,1 196,1469,320,1567,1 102,1482,217,1578,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_3995.jpg 606,646,665,739,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4009.jpg 722,233,771,281,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4016.jpg 471,781,689,887,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4036.jpg 125,200,342,510,1 741,627,1076,1026,2 595,278,774,497,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4048.jpg 121,421,213,535,1 571,1020,656,1081,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4130.jpg 684,661,802,753,1 482,421,588,496,1 483,511,592,567,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4147.jpg 126,323,720,587,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4232.jpg 183,727,612,1036,1 411,488,750,696,1 559,335,827,503,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4378.jpg 482,1182,938,1482,1 288,1508,669,1734,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4429.jpg 770,902,860,978,1 591,690,691,748,1 420,479,479,514,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4440.jpg 327,804,703,1219,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4450.jpg 545,392,687,533,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4497.jpg 678,619,828,781,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4503.jpg 268,1305,397,1408,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4529.jpg 333,709,678,1039,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_454.jpg 12,888,302,1448,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4552.jpg 665,635,700,673,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4603.jpg 535,1020,875,1175,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4696.jpg 257,698,469,900,11 273,484,455,684,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4698.jpg 523,612,625,713,11 737,547,854,650,1 962,135,1076,248,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4738.jpg 445,211,492,277,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4760.jpg 125,842,292,1017,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4764.jpg 151,852,344,1055,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_479.jpg 435,88,775,440,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4794.jpg 732,1591,863,1869,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4823.jpg 342,268,389,322,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4828.jpg 5,736,93,864,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4841.jpg 200,683,444,959,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4851.jpg 734,410,787,488,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4862.jpg 328,590,659,855,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4878.jpg 530,251,825,475,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_492.jpg 633,422,889,822,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4926.jpg 448,131,507,239,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4962.jpg 1,131,56,203,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_4972.jpg 145,2,277,136,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5004.jpg 104,353,176,421,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5044.jpg 279,336,566,606,3 146,258,358,445,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5125.jpg 435,111,866,345,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5130.jpg 316,385,679,713,3 505,310,546,349,0 684,471,733,515,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5139.jpg 61,1216,202,1330,1 6,1472,153,1612,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5283.jpg 682,504,783,667,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5295.jpg 436,1132,619,1354,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_53.jpg 362,373,566,729,3 258,1256,355,1348,0 33,1240,135,1323,0 212,459,255,518,0 292,414,324,459,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5423.jpg 234,995,316,1061,0 141,928,222,999,0 178,1042,253,1109,0 261,1104,335,1167,0 733,487,787,538,1 736,565,786,617,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5698.jpg 1,563,181,816,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5732.jpg 418,220,670,587,8 969,1389,1058,1561,2 1046,1089,1122,1192,2 798,1098,866,1197,5 1122,1411,1197,1507,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5743.jpg 1,637,75,789,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5749.jpg 594,267,639,325,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5792.jpg 205,177,233,229,8 335,148,380,177,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5819.jpg 78,148,630,834,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5825.jpg 219,411,481,644,0 215,68,412,206,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_595.jpg 414,516,459,560,10 583,493,597,563,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5952.jpg 565,607,657,707,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_5954.jpg 208,531,282,603,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_604.jpg 362,325,467,437,1 485,693,575,770,2 550,916,636,1051,2 709,1076,795,1163,0 82,687,186,787,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_6066.jpg 926,1143,1057,1267,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_6109.jpg 113,667,186,739,2 107,1030,154,1105,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_611.jpg 465,780,633,1078,11 470,407,598,637,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_612.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_6129.jpg 12,756,96,867,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_614.jpg 370,631,634,934,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_6144.jpg 526,564,683,703,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_6171.jpg 466,331,551,449,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_6198.jpg 421,237,482,327,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_6209.jpg 567,943,777,1154,4 526,539,590,620,2 235,454,313,542,5 661,445,709,503,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_6213.jpg 460,533,656,786,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_6225.jpg 419,442,746,886,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_6229.jpg 581,241,627,289,0 557,596,608,654,0 435,590,547,641,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_6249.jpg 557,391,651,523,8 542,560,611,675,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_6266.jpg 603,844,638,885,1 647,848,682,891,1 616,716,650,754,1 656,717,688,754,1 943,157,1015,206,2 314,337,367,371,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_6299.jpg 348,434,475,559,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_638.jpg 292,230,457,643,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_647.jpg 110,321,274,471,0 503,302,630,430,0 817,289,934,404,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_68.jpg 130,518,912,1398,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_689.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_69.jpg 83,337,181,427,6 866,453,948,562,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_748.jpg 338,319,832,549,3 119,265,211,376,1 907,269,998,388,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_802.jpg 420,240,628,461,10
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_854.jpg 968,411,1059,454,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_856.jpg 71,337,97,359,0 700,268,725,293,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_86.jpg 229,46,309,132,11 118,54,202,137,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_912.jpg 522,586,702,787,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_914.jpg 752,407,882,490,12 167,391,301,460,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_919.jpg 595,258,761,518,11 521,688,695,959,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_965.jpg 511,556,598,718,12 856,71,984,132,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeHsv_994.jpg 451,867,621,1225,7 624,882,780,1216,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_10.jpg 437,197,549,318,5 223,635,318,718,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1001.jpg 531,421,682,511,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1023.jpg 192,284,417,805,6 733,822,856,942,0 721,1035,840,1137,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1046.jpg 534,724,656,919,3 704,737,816,949,3 204,485,248,528,0 320,513,355,548,0 396,605,424,640,0 67,572,125,625,0 1,781,54,838,0 15,1007,72,1061,0 125,1130,174,1172,0 244,1134,285,1172,0 316,1181,360,1219,0 425,1207,476,1252,0 455,805,476,827,0 499,748,518,767,0 279,80,311,118,5 270,36,298,73,2 569,442,626,468,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_106.jpg 101,1186,132,1213,0 74,1229,104,1258,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1088.jpg 424,242,621,462,10
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1093.jpg 485,297,1078,1129,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_11.jpg 317,374,383,443,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_112.jpg 583,158,704,271,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1162.jpg 362,674,576,910,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1169.jpg 10,328,91,456,5 2,519,80,652,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1191.jpg 754,409,882,484,12 171,397,303,457,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1195.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1197.jpg 367,279,678,717,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1236.jpg 706,318,756,381,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1245.jpg 231,248,1047,623,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_126.jpg 935,1295,994,1423,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1301.jpg 272,121,836,874,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1347.jpg 862,68,983,190,0 875,913,1041,1074,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1370.jpg 1001,62,1072,203,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1379.jpg 435,640,507,736,0 530,704,578,771,0 488,461,614,700,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1381.jpg 588,559,647,607,1 873,408,899,451,0 901,473,935,523,0 872,710,901,755,0 898,798,920,836,0 895,246,916,280,0 866,283,890,318,0 741,359,770,391,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_14.jpg 243,112,339,214,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_140.jpg 437,697,482,739,5 633,694,677,737,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1400.jpg 389,163,577,469,11 586,523,615,550,0 524,504,551,529,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1408.jpg 172,501,195,528,1 135,529,163,561,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_144.jpg 522,604,687,709,0 52,549,188,621,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1450.jpg 297,146,915,979,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1455.jpg 309,1011,801,1441,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1508.jpg 450,420,844,1130,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1553.jpg 427,468,666,799,4 453,351,526,417,2 465,97,518,149,5 368,20,410,77,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1642.jpg 689,583,784,713,2 447,472,499,520,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1695.jpg 548,648,709,949,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1710.jpg 434,345,689,659,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1721.jpg 307,529,398,662,8 853,348,917,638,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1847.jpg 497,369,654,464,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1899.jpg 586,418,720,554,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1930.jpg 615,631,828,911,1 132,442,296,686,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1934.jpg 224,254,400,489,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1939.jpg 473,634,615,790,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1949.jpg 468,713,876,1135,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1961.jpg 527,645,728,787,1 527,439,696,568,1 198,818,383,937,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1966.jpg 180,164,266,255,0 201,398,289,479,0 203,1127,344,1247,2 396,1116,536,1230,2 516,574,582,626,2 682,555,734,595,2 314,1620,386,1674,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_1984.jpg 748,1665,954,1909,2 746,948,902,1125,2 689,827,877,996,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2027.jpg 442,318,541,401,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2054.jpg 227,1,434,108,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2057.jpg 1,363,95,557,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2076.jpg 33,413,121,534,3 665,577,687,599,0 800,578,826,600,0 636,510,658,533,0 618,415,639,436,0 607,341,627,360,0 599,295,617,312,0 596,257,612,273,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_227.jpg 554,1335,696,1460,2 380,1422,483,1537,1 23,1279,144,1442,2 724,2,916,248,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2280.jpg 658,691,875,958,0 612,1436,843,1719,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2324.jpg 644,770,749,830,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2334.jpg 380,814,477,879,0 439,667,513,762,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2403.jpg 110,434,386,734,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2490.jpg 195,1006,647,1388,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_25.jpg 347,262,708,976,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2645.jpg 271,558,832,1065,1 1,458,293,854,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2652.jpg 271,899,673,1406,1 514,1517,966,1949,1 343,223,658,517,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2682.jpg 275,1075,422,1249,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2720.jpg 169,163,463,734,3 632,146,978,722,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2723.jpg 364,311,651,694,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2753.jpg 271,572,526,853,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2801.jpg 593,375,840,612,1 581,1406,749,1618,1 211,1416,370,1619,1 1,1058,227,1332,1 295,385,394,637,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2802.jpg 645,495,988,1136,11 439,1200,619,1498,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2847.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2869.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_287.jpg 458,382,791,744,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2871.jpg 645,319,753,451,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2873.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_298.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_2991.jpg 473,1270,622,1421,1 396,772,541,937,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3045.jpg 438,329,594,556,1 196,380,308,523,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3057.jpg 256,374,523,716,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3088.jpg 462,363,588,493,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_310.jpg 1,407,71,529,3 77,403,167,521,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3103.jpg 415,635,608,864,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3104.jpg 734,134,859,269,1 348,388,394,448,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3136.jpg 452,405,520,492,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3146.jpg 363,569,643,939,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3156.jpg 595,568,681,683,1 123,528,182,596,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3164.jpg 331,202,547,481,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3169.jpg 143,481,299,637,1 53,152,224,335,1 199,745,331,868,1 547,913,641,1009,1 554,1068,651,1162,1 566,1207,656,1294,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_319.jpg 319,319,352,343,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_322.jpg 371,457,450,502,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3328.jpg 532,604,730,771,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3329.jpg 582,236,782,443,1 645,749,810,928,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3427.jpg 561,1285,611,1336,0 413,1396,468,1447,0 211,1350,270,1412,0 236,1635,304,1695,0 428,1566,489,1628,0 593,1630,647,1695,0 737,1527,789,1586,0 720,1353,778,1409,0 888,1270,952,1332,0 908,1545,977,1605,0 731,1763,803,1828,0 677,1092,739,1160,0 502,840,566,902,0 338,591,400,652,0 630,564,693,637,0 811,336,878,402,0 104,386,169,457,0 300,304,357,368,0 475,395,527,450,0 627,284,681,344,0 279,103,340,170,0 612,86,670,148,0 64,67,134,138,0 784,29,855,96,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3453.jpg 956,57,1012,120,0 907,480,950,519,0 355,832,394,871,0 419,786,451,814,0 266,417,325,469,0 750,880,776,907,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3455.jpg 846,290,885,333,0 320,507,364,539,0 392,878,424,907,0 714,940,741,966,0 1,293,38,336,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3463.jpg 946,233,998,285,0 391,484,437,531,0 498,820,524,844,0 444,858,479,893,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3472.jpg 238,501,298,550,0 352,888,390,923,0 392,841,427,868,0 719,951,750,981,0 874,214,930,267,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3490.jpg 349,603,415,657,0 1020,733,1069,777,0 415,973,456,1011,0 479,952,516,979,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3502.jpg 963,208,1023,263,0 294,557,359,605,0 401,935,443,972,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3505.jpg 947,313,1008,370,0 347,615,417,680,0 406,1003,451,1050,0 940,669,982,709,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3605.jpg 401,534,609,809,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3606.jpg 283,592,676,1044,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3615.jpg 491,671,728,1005,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3629.jpg 86,483,452,931,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3635.jpg 979,428,1049,502,1 284,445,351,519,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3639.jpg 693,547,726,585,0 696,772,725,803,0 403,196,433,229,0 299,206,333,240,0 477,237,505,267,0 528,302,557,335,0 556,393,580,420,0 223,264,261,299,0 179,356,215,391,0 173,465,210,500,0 213,586,245,618,0 248,685,279,715,0 295,766,324,797,0 551,596,578,621,0 539,681,564,710,0 480,767,508,792,0 385,801,411,829,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_375.jpg 632,694,669,728,1 664,533,688,560,1 739,564,767,585,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3786.jpg 180,429,397,731,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_383.jpg 509,74,561,130,0 920,750,993,822,1 779,734,841,800,1 640,723,700,788,1 506,715,565,775,1 382,709,438,768,1 243,705,314,774,1 105,705,176,776,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3881.jpg 330,1575,640,1823,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_3932.jpg 785,618,932,825,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4001.jpg 45,114,154,283,1 956,66,1006,132,1 590,799,663,877,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4054.jpg 61,258,168,416,1 845,185,887,248,1 572,908,651,968,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4118.jpg 222,325,479,478,1 354,554,577,727,1 186,85,402,254,1 887,387,1071,562,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4136.jpg 405,635,519,743,1 502,741,630,854,1 608,849,742,989,1 594,1011,683,1089,1 925,693,1073,823,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4228.jpg 270,790,490,873,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4232.jpg 183,727,612,1036,1 411,488,750,696,1 559,335,827,503,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_424.jpg 246,544,355,649,0 606,1145,747,1301,0 462,253,516,313,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4382.jpg 127,297,614,578,1 197,812,669,1041,1 280,1234,732,1508,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4431.jpg 323,1,701,328,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4449.jpg 316,1082,614,1399,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4467.jpg 812,1017,971,1171,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4479.jpg 134,765,495,1017,1 45,1469,486,1771,1 206,223,534,432,1 708,217,797,452,0 714,760,838,995,0 758,1475,866,1767,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4503.jpg 268,1305,397,1408,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4535.jpg 355,262,401,328,2 390,390,437,456,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4562.jpg 118,509,589,738,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_460.jpg 645,1007,748,1265,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4610.jpg 28,519,156,718,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4738.jpg 445,211,492,277,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4787.jpg 158,1215,380,1521,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4849.jpg 731,407,787,487,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4856.jpg 40,882,777,1280,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4865.jpg 249,459,894,703,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4868.jpg 175,395,882,921,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4875.jpg 425,535,692,914,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_4992.jpg 599,331,659,402,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5006.jpg 73,195,173,299,8 928,476,1076,557,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5020.jpg 743,1154,823,1228,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5032.jpg 243,129,267,159,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5053.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5058.jpg 274,530,516,835,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5059.jpg 464,106,750,367,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5111.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5154.jpg 201,387,392,599,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5178.jpg 778,584,892,712,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5441.jpg 891,594,1044,712,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_548.jpg 7,5,1176,1484,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_56.jpg 306,332,400,589,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_561.jpg 705,503,1161,765,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_565.jpg 213,347,369,413,0 563,366,681,429,0 900,381,1062,445,0 919,588,1036,658,0 642,572,737,629,0 383,558,475,614,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5740.jpg 354,26,637,453,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5773.jpg 725,1442,914,1600,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5791.jpg 169,50,222,121,8 136,169,208,216,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_582.jpg 412,329,627,831,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5822.jpg 664,105,774,220,0 652,259,760,374,0 627,417,738,526,0 476,213,569,349,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_592.jpg 631,737,724,970,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5922.jpg 389,527,709,913,11 247,846,477,1045,11 96,178,228,330,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_595.jpg 414,516,459,560,10 583,493,597,563,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_596.jpg 369,638,604,744,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_597.jpg 551,236,620,306,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_5995.jpg 231,943,298,1009,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_6009.jpg 410,127,560,284,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_6029.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_6040.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_6043.jpg 873,528,946,619,3 948,528,1021,622,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_6098.jpg 383,397,675,905,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_611.jpg 465,780,633,1078,11 470,407,598,637,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_6113.jpg 158,661,237,769,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_6118.jpg 238,549,278,620,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_6172.jpg 383,480,558,625,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_6185.jpg 375,487,753,1063,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_6273.jpg 41,956,227,1239,2 598,389,686,516,2 617,6,730,199,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_629.jpg 361,888,480,1000,1 394,748,483,835,1 489,229,539,273,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_650.jpg 196,388,260,457,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_651.jpg 155,452,647,848,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_675.jpg 225,922,537,1187,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_685.jpg 538,611,714,846,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_690.jpg 524,209,725,613,11 563,887,860,1364,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_692.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_710.jpg 5,5,994,1234,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_754.jpg 39,89,198,296,1 308,100,438,300,1 536,101,659,286,1 752,99,854,269,1 948,80,1056,279,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_8.jpg 457,611,679,820,1 466,357,616,514,1 470,224,580,332,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_808.jpg 307,381,482,771,3 581,385,781,751,3 191,591,220,632,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_844.jpg 414,338,614,824,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_854.jpg 968,411,1059,454,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_904.jpg 747,796,863,912,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_912.jpg 522,586,702,787,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_921.jpg 111,219,836,575,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_933.jpg 485,657,555,727,0 660,614,718,681,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_937.jpg 497,502,568,574,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_938.jpg 360,151,659,1007,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/changeLight_978.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1030.jpg 443,228,477,272,1 449,115,488,159,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1044.jpg 494,276,697,468,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1047.jpg 609,729,815,887,3 1004,635,1072,703,1 467,492,520,559,1 139,495,191,561,1 575,509,629,574,1 428,649,478,691,0 334,644,381,681,0 237,649,281,687,0 137,660,185,697,0 527,661,573,696,0 903,779,954,818,0 1121,687,1174,776,1 891,590,960,663,1 786,559,839,629,1 683,525,736,598,1 997,829,1053,878,0 622,675,668,716,0 30,675,84,721,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1088.jpg 459,242,656,462,10
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1116.jpg 335,313,390,362,0 619,330,661,372,0 500,111,521,136,0 383,78,410,102,0 218,20,248,47,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1131.jpg 425,462,969,1006,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1139.jpg 431,645,589,949,3 652,653,857,942,3 911,753,949,793,0 937,932,970,973,0 943,883,964,907,0 913,964,935,989,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1140.jpg 340,725,656,983,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1166.jpg 430,933,689,1446,7 224,788,456,1319,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_12.jpg 374,431,524,538,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1211.jpg 404,320,583,511,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1237.jpg 409,254,689,615,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1267.jpg 652,210,751,322,0 639,374,750,501,0 623,630,770,813,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1358.jpg 447,567,556,839,3 637,561,775,807,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1372.jpg 266,329,607,774,1 459,859,637,1107,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1389.jpg 365,662,472,808,12 574,335,623,405,12 271,248,366,342,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_139.jpg 775,122,828,162,5 643,1043,693,1079,5 828,711,887,742,2 817,778,879,812,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1391.jpg 401,262,501,407,8 1007,211,1046,481,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1417.jpg 686,219,833,438,1 423,245,560,451,1 173,260,302,465,1 0,269,49,473,1 970,194,1079,431,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1424.jpg 371,615,808,1160,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_143.jpg 59,574,153,655,1 818,663,949,760,1 68,156,137,213,1 160,92,422,264,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1433.jpg 505,495,699,824,7 447,374,668,713,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1485.jpg 311,294,781,1013,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1504.jpg 599,378,781,775,3 292,378,504,765,3 860,590,887,635,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1591.jpg 395,314,588,525,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_16.jpg 886,174,1044,318,1 537,185,666,310,1 225,188,345,311,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1603.jpg 491,452,866,962,4 694,173,894,327,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_162.jpg 425,424,589,665,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1723.jpg 561,567,635,605,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1732.jpg 589,769,857,894,11 150,758,420,877,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1777.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1828.jpg 446,751,562,922,8 818,608,878,820,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1831.jpg 504,440,737,913,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1853.jpg 0,1,513,1414,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1870.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1910.jpg 304,413,885,688,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1922.jpg 294,274,937,1063,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1926.jpg 494,489,675,708,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_193.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1936.jpg 346,163,605,510,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1944.jpg 387,255,594,509,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_1981.jpg 361,133,637,343,1 377,591,561,756,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2003.jpg 863,188,977,348,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_201.jpg 511,428,787,921,8 309,2,546,917,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2034.jpg 372,218,524,318,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2043.jpg 820,259,918,387,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2056.jpg 930,568,1079,870,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2057.jpg 985,363,1079,557,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_213.jpg 108,5,1174,600,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_218.jpg 0,498,660,1046,3 0,1075,593,1571,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_223.jpg 420,405,735,1015,3 777,384,1168,980,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_227.jpg 480,1335,622,1460,2 693,1422,796,1537,1 1032,1279,1153,1442,2 260,2,452,248,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2335.jpg 507,1569,783,1828,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2372.jpg 431,808,529,928,0 521,572,594,681,0 233,733,282,835,0 216,1004,270,1096,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2397.jpg 607,821,994,1336,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_268.jpg 571,2,839,570,7 347,4,559,575,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2680.jpg 247,91,449,291,2 499,1685,674,1813,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2692.jpg 400,65,677,349,1 244,1738,540,2036,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2693.jpg 287,938,670,1156,1 44,708,392,910,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2719.jpg 128,671,310,890,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2742.jpg 1077,108,1169,297,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2765.jpg 92,339,631,688,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2766.jpg 412,670,441,716,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2794.jpg 347,358,657,659,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2818.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2820.jpg 174,954,448,1632,11 834,620,981,693,0 520,626,679,701,0 711,666,823,717,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2868.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2989.jpg 274,453,666,966,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_2998.jpg 156,527,366,721,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3003.jpg 319,606,919,1217,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3004.jpg 99,484,531,911,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3019.jpg 429,1295,564,1430,1 727,1023,833,1180,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_302.jpg 483,373,767,586,3 1049,814,1132,939,1 897,853,967,971,1 742,875,816,996,1 601,899,667,1013,1 450,915,523,1032,1 302,927,374,1045,1 0,941,62,1061,1 58,586,131,625,1 207,587,271,626,1 357,584,410,619,1 1058,418,1128,474,1 771,514,838,557,1 911,474,976,542,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3021.jpg 370,255,468,354,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3057.jpg 557,374,824,716,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_307.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3086.jpg 494,321,597,426,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_309.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3115.jpg 528,607,698,740,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3130.jpg 552,554,628,648,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3134.jpg 491,334,598,442,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3135.jpg 543,400,631,492,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3144.jpg 65,538,172,648,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3165.jpg 430,395,661,620,1 388,883,596,1087,1 344,1356,565,1552,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_329.jpg 576,684,995,1461,0 133,593,597,1436,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3324.jpg 463,104,604,280,11 753,549,826,605,1 548,830,596,900,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3397.jpg 127,612,777,1523,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3429.jpg 731,945,1074,1358,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3444.jpg 554,496,619,573,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3472.jpg 782,501,842,550,0 690,888,728,923,0 653,841,688,868,0 330,951,361,981,0 150,214,206,267,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3480.jpg 598,491,654,539,0 574,871,611,908,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3491.jpg 606,542,667,589,0 591,918,633,961,0 225,1014,251,1041,0 530,880,564,906,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3497.jpg 208,297,253,342,0 744,555,789,593,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3499.jpg 746,460,793,499,0 645,769,675,797,0 677,823,719,859,0 194,178,242,227,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3508.jpg 143,664,246,770,0 23,909,107,993,0 0,167,87,284,0 40,1264,150,1377,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3509.jpg 576,28,620,73,0 571,144,615,188,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3598.jpg 559,337,737,544,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3599.jpg 424,495,659,815,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_361.jpg 288,407,802,640,3 869,365,949,450,0 68,360,168,449,0 681,371,755,425,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3629.jpg 628,483,994,931,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3635.jpg 235,428,305,502,1 933,445,1000,519,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_370.jpg 197,559,544,900,10
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3770.jpg 517,906,862,1160,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_379.jpg 525,542,599,625,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3881.jpg 440,1575,750,1823,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3955.jpg 854,625,927,708,1 259,584,295,623,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_3980.jpg 482,853,531,903,5 642,198,678,246,1 0,323,94,444,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4007.jpg 372,633,704,816,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4014.jpg 904,595,941,657,2 851,256,886,304,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4021.jpg 493,831,556,894,2 276,58,321,114,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4029.jpg 928,410,1027,532,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4036.jpg 739,200,956,510,1 5,627,340,1026,2 307,278,486,497,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_405.jpg 493,226,605,393,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4069.jpg 415,507,540,627,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_407.jpg 405,281,460,468,2 353,59,411,107,1 399,562,724,1015,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4114.jpg 491,396,605,481,1 426,543,571,632,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4126.jpg 527,680,665,784,1 450,819,601,932,1 357,962,517,1094,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4147.jpg 0,323,594,587,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4156.jpg 337,539,839,945,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4367.jpg 481,375,518,425,1 61,665,116,737,1 606,942,671,1015,1 845,517,888,557,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4378.jpg 142,1182,598,1482,1 411,1508,792,1734,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4429.jpg 221,902,311,978,1 390,690,490,748,1 602,479,661,514,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4448.jpg 457,456,779,691,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4481.jpg 592,1686,748,1845,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4533.jpg 159,134,395,266,1 194,687,373,819,1 371,203,515,309,1 359,647,508,737,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4535.jpg 679,262,725,328,2 643,390,690,456,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4554.jpg 638,462,850,623,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4631.jpg 860,192,1009,367,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4766.jpg 316,317,334,341,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4787.jpg 700,1215,922,1521,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4837.jpg 515,296,543,329,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_484.jpg 254,799,296,843,0 268,695,310,739,0 282,604,321,642,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4900.jpg 923,827,1037,996,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_4940.jpg 866,61,932,148,2 811,147,918,264,3 25,105,66,159,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_5000.jpg 390,658,477,758,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_5125.jpg 215,111,646,345,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_5140.jpg 343,1578,385,1621,0 287,1611,334,1659,0 91,1628,136,1676,0 31,1598,77,1644,0 154,1150,200,1191,0 144,1065,186,1108,0 80,1067,124,1107,0 21,1052,63,1092,0 205,1052,243,1090,0 339,884,378,920,0 0,1243,35,1283,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_5246.jpg 774,411,888,488,0 501,398,581,463,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_529.jpg 464,707,529,858,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_5300.jpg 672,667,745,742,1 758,518,817,592,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_542.jpg 491,412,564,502,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_5421.jpg 522,992,600,1064,1 623,1051,697,1123,1 550,1083,620,1152,1 605,948,680,1012,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_5442.jpg 225,411,961,817,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_5451.jpg 222,406,960,817,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_5698.jpg 899,563,1079,816,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_5706.jpg 516,301,723,648,8 379,862,468,1002,2 115,1283,171,1363,5 302,1056,374,1150,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_5770.jpg 878,760,983,847,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_5779.jpg 78,1736,178,1841,0 922,1368,976,1428,0 916,1168,974,1227,0 86,1508,171,1593,0 196,1045,290,1131,0 124,1279,211,1353,0 559,1812,656,1905,0 953,576,1079,693,2 814,701,875,753,0 816,828,876,883,0 69,781,144,848,0 99,656,160,720,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_5790.jpg 602,196,639,242,8 59,379,106,407,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_5806.jpg 1028,1427,1077,1486,5 30,823,100,895,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_59.jpg 400,531,447,603,8 1119,898,1168,941,0 1123,1026,1159,1056,1 1057,1065,1092,1097,1 1073,1106,1114,1140,1 1139,1064,1175,1099,1 609,1180,648,1218,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_595.jpg 621,516,666,560,10 483,493,497,563,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6001.jpg 863,483,960,618,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6059.jpg 288,351,849,1122,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6061.jpg 131,516,552,987,10
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6063.jpg 523,125,871,683,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6065.jpg 302,525,351,605,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_608.jpg 697,178,761,242,11 199,196,253,256,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6090.jpg 234,804,331,980,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6101.jpg 192,348,933,863,10
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6106.jpg 920,213,1043,327,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6118.jpg 803,549,843,620,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6147.jpg 471,597,636,771,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6185.jpg 327,487,705,1063,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_619.jpg 457,695,679,929,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6219.jpg 436,252,595,477,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_622.jpg 248,146,359,279,11 7,181,137,312,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6235.jpg 831,1141,962,1213,11 299,953,379,996,11 1110,189,1241,290,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6258.jpg 537,436,674,722,11 401,407,438,460,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_6263.jpg 712,302,841,372,2 512,181,572,225,2 361,114,428,166,2 307,152,337,177,1 313,179,339,204,1 252,164,272,185,1 253,187,277,210,1 183,169,203,189,1 184,194,207,216,1 244,627,371,697,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_631.jpg 167,493,260,619,8 890,373,937,592,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_66.jpg 234,88,432,318,2 298,629,919,1347,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_660.jpg 253,571,413,686,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_666.jpg 792,203,879,308,2 609,525,668,590,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_673.jpg 362,532,413,591,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_692.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_706.jpg 626,644,729,942,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_71.jpg 294,48,432,182,1 287,351,414,481,1 273,659,397,759,1 263,937,386,1052,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_762.jpg 43,466,327,1008,3 375,1213,440,1280,0 639,689,700,748,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_765.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_800.jpg 852,377,955,517,8 105,104,160,436,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_805.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_820.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_824.jpg 686,346,790,479,1 559,276,668,445,1 317,376,408,503,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_838.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_866.jpg 622,515,665,562,10 483,492,498,563,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_871.jpg 684,638,865,802,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_885.jpg 421,335,785,722,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_903.jpg 387,285,648,730,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_910.jpg 388,395,475,451,12 654,592,773,679,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_940.jpg 524,58,610,309,6 354,285,413,359,0 342,473,408,544,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_964.jpg 403,257,688,607,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_967.jpg 447,792,484,830,0 359,784,393,819,0 289,820,323,856,1 367,863,395,894,0 534,889,572,929,0 527,965,562,1002,0 441,948,472,982,0 381,949,414,984,1 513,1036,545,1072,1 632,1038,672,1081,1 548,743,592,789,1 375,650,417,693,1 278,696,318,733,1 663,921,707,968,1 782,507,827,551,1 874,672,917,717,1 828,803,865,843,1 929,106,972,151,0 699,189,736,227,0 935,988,982,1031,0 994,869,1037,907,0 513,1036,545,1072,1 498,501,537,540,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/filp_978.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1069.jpg 526,283,764,698,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1070.jpg 217,393,495,709,2 544,414,688,630,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_110.jpg 335,468,405,519,2 91,131,144,179,1 922,506,987,595,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1169.jpg 10,328,91,456,5 2,519,80,652,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1188.jpg 571,714,692,810,10 170,607,210,815,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1193.jpg 401,330,623,884,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_125.jpg 43,201,69,234,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1298.jpg 100,294,126,339,5 979,103,1022,170,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1366.jpg 330,354,476,548,1 766,369,882,554,1 412,764,569,877,0 844,762,1009,890,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1426.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1471.jpg 809,489,910,645,2 124,588,242,752,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_170.jpg 187,1408,417,1562,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1712.jpg 583,477,646,549,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1721.jpg 307,529,398,662,8 853,348,917,638,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1737.jpg 817,259,973,461,1 494,274,634,455,1 196,291,328,467,1 140,716,299,833,0 438,713,595,840,0 762,743,925,872,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_175.jpg 720,957,835,1068,1 577,1164,650,1230,1 136,1008,323,1071,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1757.jpg 421,376,659,735,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1762.jpg 422,307,533,449,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1901.jpg 343,602,759,1170,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1915.jpg 372,518,578,793,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_1962.jpg 344,695,479,779,1 319,880,470,983,1 331,980,476,1070,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_205.jpg 43,1482,231,1665,5 405,296,497,446,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_207.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2136.jpg 551,238,680,395,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_222.jpg 364,336,847,834,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2318.jpg 397,662,736,1165,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2321.jpg 353,1645,658,1923,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2324.jpg 644,770,749,830,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2354.jpg 466,231,576,368,0 820,796,950,902,1 570,1619,862,1924,11 200,185,479,506,11 352,681,458,801,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2359.jpg 553,112,666,249,1 912,784,1069,906,1 551,1662,882,1991,11 54,677,134,769,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2372.jpg 551,808,649,928,0 486,572,559,681,0 798,733,847,835,0 810,1004,864,1096,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2381.jpg 16,860,630,1395,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2391.jpg 649,1097,1080,1449,11 1,1236,595,1906,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2490.jpg 195,1006,647,1388,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_257.jpg 714,422,795,530,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2644.jpg 838,1778,980,1918,1 910,489,973,539,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2646.jpg 306,223,1080,912,1 1,71,351,608,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2659.jpg 667,234,753,321,5 645,1778,741,1880,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2749.jpg 202,131,770,750,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2802.jpg 645,495,988,1136,11 439,1200,619,1498,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2819.jpg 58,1091,412,1778,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2827.jpg 125,478,777,1365,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2868.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_287.jpg 458,382,791,744,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_29.jpg 502,611,601,662,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2981.jpg 123,71,440,438,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_2990.jpg 266,399,764,1058,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3002.jpg 404,229,565,336,1 379,425,522,520,1 431,1,615,113,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3004.jpg 549,484,981,911,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3006.jpg 1,609,639,1358,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3054.jpg 411,438,485,523,1 139,617,231,703,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3083.jpg 450,390,579,521,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3085.jpg 423,437,524,548,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_309.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3097.jpg 559,348,675,464,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3147.jpg 205,348,294,456,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_337.jpg 561,814,628,898,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3435.jpg 95,348,160,406,0 139,637,206,698,0 359,812,417,867,0 624,776,684,836,0 791,562,850,620,0 767,268,829,334,0 599,346,648,398,0 550,74,609,140,0 264,110,327,173,0 271,1478,331,1538,0 309,1713,365,1770,0 428,1282,482,1334,0 876,1397,932,1453,0 577,1421,628,1466,0 452,1515,500,1562,0 726,1478,772,1527,0 897,1630,955,1686,0 321,565,367,614,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3460.jpg 994,211,1046,264,0 401,462,457,510,0 426,908,479,950,0 831,975,862,1001,0 973,521,1022,557,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3464.jpg 844,285,890,332,0 322,503,363,539,0 398,876,428,909,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3471.jpg 368,510,417,552,0 406,913,447,949,0 464,859,499,885,0 772,956,802,985,0 921,593,956,624,0 961,247,1007,298,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3472.jpg 238,501,298,550,0 352,888,390,923,0 392,841,427,868,0 719,951,750,981,0 874,214,930,267,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3485.jpg 969,115,1031,181,0 261,463,330,517,0 358,896,403,939,0 418,846,456,878,0 928,530,975,567,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3496.jpg 796,347,836,383,0 264,561,314,597,0 325,910,360,941,0 366,870,395,896,0 729,641,764,668,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3500.jpg 869,225,918,276,0 268,507,323,550,0 346,891,387,927,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_352.jpg 711,509,761,560,0 282,557,331,602,0 282,112,324,150,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3598.jpg 343,337,521,544,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3773.jpg 108,124,982,471,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3790.jpg 57,162,465,341,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_394.jpg 356,422,569,875,3 669,428,1008,902,3 174,703,216,767,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3955.jpg 154,625,227,708,1 786,584,822,623,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_3977.jpg 416,475,479,543,1 592,1097,676,1196,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4015.jpg 312,584,829,1027,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_405.jpg 475,226,587,393,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4055.jpg 489,454,719,693,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4069.jpg 540,507,665,627,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4151.jpg 649,922,1004,1072,1 438,165,757,316,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4200.jpg 540,278,920,579,9 932,560,1014,606,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4430.jpg 853,639,900,702,1 208,810,248,863,1 191,743,231,803,1 726,664,760,713,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4439.jpg 822,465,1020,693,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_444.jpg 327,174,501,482,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4459.jpg 75,849,214,1002,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4461.jpg 149,1269,338,1441,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4469.jpg 232,925,625,1149,1 269,373,630,602,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4552.jpg 665,635,700,673,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4623.jpg 592,471,699,563,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_463.jpg 554,215,779,371,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4702.jpg 534,638,634,802,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4735.jpg 1039,177,1074,223,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4782.jpg 757,70,782,100,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4792.jpg 462,815,682,969,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4839.jpg 182,599,237,695,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4868.jpg 175,395,882,921,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4880.jpg 341,3,944,431,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4886.jpg 4,579,115,768,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4923.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_4926.jpg 448,131,507,239,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5020.jpg 743,1154,823,1228,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5032.jpg 243,129,267,159,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_504.jpg 489,476,630,706,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5055.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5098.jpg 556,446,749,575,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5111.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5165.jpg 759,320,806,377,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_521.jpg 424,777,527,1007,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_523.jpg 440,468,666,976,3 609,1100,672,1173,0 627,1269,703,1348,0 752,1256,827,1340,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_540.jpg 497,561,540,623,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5418.jpg 129,580,260,732,1 245,733,369,869,1 33,723,159,865,1 451,909,604,1187,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5443.jpg 596,666,780,881,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5449.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_557.jpg 854,584,938,740,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_571.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5750.jpg 107,198,223,343,8 654,260,999,538,10
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5752.jpg 66,805,120,862,1 86,655,122,690,0 33,712,72,749,0 68,567,104,601,0 515,389,554,416,0 674,373,709,396,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5779.jpg 902,1736,1002,1841,0 104,1368,158,1428,0 106,1168,164,1227,0 909,1508,994,1593,0 790,1045,884,1131,0 869,1279,956,1353,0 424,1812,521,1905,0 1,576,127,693,2 205,701,266,753,0 204,828,264,883,0 936,781,1011,848,0 920,656,981,720,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5810.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5907.jpg 370,679,625,893,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_5952.jpg 565,607,657,707,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_60.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_6009.jpg 410,127,560,284,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_6040.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_6059.jpg 231,351,792,1122,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_6111.jpg 766,711,1077,975,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_6125.jpg 216,155,357,338,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_6219.jpg 485,252,644,477,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_6237.jpg 543,562,766,1028,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_6243.jpg 94,453,793,1234,4 184,47,278,247,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_629.jpg 361,888,480,1000,1 394,748,483,835,1 489,229,539,273,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_636.jpg 272,145,843,1080,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_647.jpg 110,321,274,471,0 503,302,630,430,0 817,289,934,404,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_668.jpg 318,146,463,293,2 359,549,688,1275,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_69.jpg 83,337,181,427,6 866,453,948,562,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_703.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_739.jpg 190,107,305,255,8 270,552,324,613,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_766.jpg 485,243,580,330,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_790.jpg 363,496,508,687,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_792.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_799.jpg 404,298,462,328,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_8.jpg 457,611,679,820,1 466,357,616,514,1 470,224,580,332,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_801.jpg 395,548,475,585,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_802.jpg 420,240,628,461,10
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_824.jpg 290,346,394,479,1 412,276,521,445,1 672,376,763,503,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_911.jpg 572,713,690,818,10 173,602,215,814,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_940.jpg 470,58,556,309,6 667,285,726,359,0 672,473,738,544,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_946.jpg 396,696,624,929,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_951.jpg 306,361,535,812,3 684,377,957,827,3 169,639,215,689,0 257,302,285,344,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_952.jpg 769,81,880,152,2 355,800,404,847,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_971.jpg 269,143,829,1080,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/noise_999.jpg 228,408,502,1000,3 636,389,966,971,3 57,712,94,787,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1046.jpg 668,813,789,1006,3 839,798,950,1007,3 288,642,333,685,0 407,650,442,686,0 498,728,526,764,0 169,750,228,804,0 141,968,194,1025,0 194,1188,251,1242,0 322,1291,372,1333,0 440,1275,481,1313,0 519,1308,563,1346,0 632,1314,683,1359,0 589,916,611,938,0 622,852,642,872,0 291,231,324,270,5 275,190,303,227,2 639,535,696,562,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1092.jpg 213,531,929,1092,3 482,270,608,415,1 709,227,841,400,1 968,194,1113,387,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1094.jpg 400,494,573,882,3 664,449,879,806,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1116.jpg 832,371,887,420,0 568,436,610,478,0 666,197,688,223,0 769,145,797,170,0 919,60,950,87,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1131.jpg 331,576,868,1112,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1139.jpg 621,723,778,1024,3 358,774,560,1059,3 263,903,301,943,0 273,1083,307,1124,0 269,1035,291,1059,0 312,1109,335,1135,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1159.jpg 523,943,632,1102,2 325,748,416,867,2 63,332,103,411,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1167.jpg 256,575,918,1938,7 634,274,1112,1617,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_12.jpg 631,502,780,608,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_120.jpg 476,764,559,838,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_126.jpg 1156,1312,1215,1439,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1360.jpg 343,571,835,918,3 242,483,327,592,1 484,433,560,516,1 736,400,810,505,1 983,364,1075,496,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1366.jpg 403,466,548,658,1 834,407,949,591,1 548,854,703,967,0 974,777,1138,904,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_149.jpg 710,342,1133,582,11 76,438,424,670,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_155.jpg 256,195,667,801,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1570.jpg 578,296,750,528,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1721.jpg 405,647,496,779,8 925,376,989,663,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1743.jpg 686,604,755,713,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1789.jpg 1166,906,1231,994,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1831.jpg 455,541,685,1007,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1840.jpg 884,749,964,859,8 288,813,332,999,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1861.jpg 882,58,1096,242,1 484,86,710,219,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1870.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1904.jpg 265,642,698,1049,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1914.jpg 539,679,714,895,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1919.jpg 487,252,686,500,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1930.jpg 739,639,950,916,1 227,541,390,783,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1947.jpg 546,797,743,1048,1 143,864,275,1064,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_1960.jpg 730,1681,920,1801,2 738,1531,877,1661,2 690,1370,824,1471,2 563,521,657,581,2 586,482,657,540,2 1119,718,1209,844,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2001.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_205.jpg 315,1639,501,1821,5 463,417,554,566,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2074.jpg 583,1849,1252,2309,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2082.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_214.jpg 1154,1580,1189,1619,1 1256,1025,1285,1051,0 1255,1093,1280,1121,0 951,794,984,829,1 710,1037,825,1130,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_227.jpg 788,1410,929,1534,2 631,1529,733,1643,1 258,1449,379,1610,2 734,63,924,307,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_23.jpg 452,346,599,570,11 500,747,648,1015,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2368.jpg 692,350,910,646,11 642,1660,889,1913,11 342,1035,468,1137,1 556,510,663,623,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2371.jpg 820,791,916,854,0 209,845,277,923,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_239.jpg 277,882,420,1092,2 624,182,675,260,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2398.jpg 340,1080,812,1535,11 412,1500,1192,2225,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_241.jpg 1078,399,1140,469,1 917,446,981,509,1 760,484,826,554,1 616,522,680,589,1 462,554,532,620,1 308,584,381,654,1 138,616,213,680,1 253,1000,314,1035,1 406,944,470,985,1 559,901,619,941,1 707,867,768,907,1 849,835,913,876,1 1002,804,1066,848,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2410.jpg 828,758,1228,1172,11 806,1329,1064,1653,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2490.jpg 399,1105,846,1482,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2641.jpg 590,760,998,1224,1 407,70,999,424,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2642.jpg 592,445,704,593,1 549,96,693,233,1 639,645,778,759,1 768,1350,910,1470,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2644.jpg 1146,1780,1287,1919,1 985,505,1048,555,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2658.jpg 101,425,539,809,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2686.jpg 811,1348,1037,1537,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_272.jpg 874,228,935,292,11 246,278,308,340,11 962,526,1022,594,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2720.jpg 244,293,534,856,3 697,191,1039,759,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2742.jpg 36,301,127,488,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2749.jpg 275,232,835,842,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2753.jpg 390,689,642,967,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2766.jpg 501,733,531,780,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2791.jpg 615,856,766,1223,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2832.jpg 1027,1511,1120,1627,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2837.jpg 957,970,1290,1650,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2871.jpg 702,380,809,511,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_295.jpg 961,232,1011,274,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_298.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_2995.jpg 464,1012,893,1481,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3007.jpg 376,1025,760,1451,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3027.jpg 461,590,558,711,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_304.jpg 629,422,696,534,3 728,409,789,525,3 827,395,892,519,3 350,438,379,466,0 362,387,388,411,0 383,348,407,372,0 432,322,452,346,0 585,322,624,342,12 1062,207,1105,235,12 56,191,98,208,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3043.jpg 223,453,319,559,1 435,770,534,856,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3057.jpg 346,488,610,826,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3059.jpg 532,971,661,1128,1 908,751,1033,923,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_307.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3084.jpg 555,371,643,469,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_309.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3096.jpg 519,373,637,491,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_310.jpg 82,598,152,719,3 156,579,245,697,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3118.jpg 711,439,832,568,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3121.jpg 553,310,716,496,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3130.jpg 549,648,625,741,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3135.jpg 519,495,607,587,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3137.jpg 627,725,725,838,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3146.jpg 488,660,765,1025,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3153.jpg 429,776,543,940,1 965,427,1048,543,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3187.jpg 502,671,661,819,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_33.jpg 455,452,602,635,2 512,692,685,801,2 671,275,744,348,0 884,204,948,269,0 675,1072,776,1156,1 967,150,1103,319,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3328.jpg 643,672,839,838,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3425.jpg 518,1297,1093,1790,2 581,1111,782,1338,0 359,1643,557,1854,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3426.jpg 688,721,873,930,0 704,1262,904,1471,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_343.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3454.jpg 260,671,326,727,0 535,713,565,759,0 471,1058,509,1099,0 506,1013,542,1046,0 890,1071,919,1099,0 957,659,1005,708,0 967,211,1027,270,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3458.jpg 396,583,446,625,0 586,887,615,915,0 549,948,595,982,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3473.jpg 503,682,559,729,0 581,1014,620,1051,0 642,979,671,1000,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3481.jpg 914,137,960,192,0 459,538,515,587,0 565,923,607,964,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_352.jpg 793,561,843,612,0 378,682,427,728,0 300,245,342,283,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3778.jpg 250,103,969,1461,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_378.jpg 679,730,735,785,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3790.jpg 99,239,502,416,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_381.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_386.jpg 571,419,605,461,2 692,619,709,645,5 788,978,822,1012,2 700,959,717,989,5 733,1052,882,1260,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3897.jpg 108,584,452,949,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3912.jpg 1129,1232,1220,1323,0 533,1462,607,1541,0 605,1618,690,1696,0 459,819,520,880,0 210,958,271,1018,0 185,713,245,766,0 412,569,475,629,0 944,659,1026,741,0 1088,498,1158,575,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3913.jpg 279,934,746,1579,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3956.jpg 269,764,341,854,1 879,622,915,664,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_3977.jpg 498,577,561,645,1 782,1157,865,1256,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4001.jpg 78,282,187,450,1 958,82,1008,148,1 726,865,799,943,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_403.jpg 1018,1170,1286,1391,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4057.jpg 194,444,297,576,1 940,275,983,327,1 789,1006,848,1070,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4112.jpg 421,977,914,1282,3 556,1288,1078,1570,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4117.jpg 366,804,495,929,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4147.jpg 203,369,789,630,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_416.jpg 366,600,463,661,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4226.jpg 293,756,554,957,1 340,1008,638,1203,1 471,1261,727,1473,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4228.jpg 410,899,627,982,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_426.jpg 1074,623,1161,717,0 1118,1087,1229,1207,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_431.jpg 402,640,592,1040,3 686,697,878,953,3 880,924,1050,1145,11 535,427,616,539,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4319.jpg 778,622,888,748,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4367.jpg 622,456,660,506,1 1071,670,1126,742,1 572,1038,637,1111,1 282,659,325,700,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4378.jpg 705,1228,1156,1524,1 565,1589,941,1813,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_443.jpg 112,385,753,1011,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4433.jpg 468,1115,888,1655,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4437.jpg 577,607,825,791,1 866,1240,1153,1459,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4440.jpg 497,889,868,1299,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4463.jpg 351,797,617,1001,5 850,755,1048,927,1 624,477,831,622,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4481.jpg 633,1776,788,1934,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4541.jpg 460,488,623,611,1 646,624,818,757,1 550,869,720,987,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4737.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4768.jpg 274,176,319,240,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4773.jpg 715,277,772,353,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4782.jpg 760,123,785,153,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4862.jpg 448,682,775,944,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4878.jpg 584,317,876,538,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4896.jpg 636,1412,922,1598,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4908.jpg 137,469,379,721,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4917.jpg 453,323,749,515,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4925.jpg 488,137,836,381,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4950.jpg 478,501,520,554,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_4999.jpg 290,340,336,393,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_5068.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_5069.jpg 749,346,928,439,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_5118.jpg 239,612,615,985,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_5125.jpg 467,184,893,415,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_5449.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_561.jpg 804,537,1254,796,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_5750.jpg 152,353,267,497,8 713,300,1054,574,10
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_5770.jpg 235,910,339,996,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_5800.jpg 27,308,79,367,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_5819.jpg 162,271,706,948,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_5891.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_5989.jpg 90,559,238,755,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_6030.jpg 596,559,802,1561,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_6035.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_6047.jpg 538,257,557,279,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_6054.jpg 400,373,920,633,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_6063.jpg 275,244,619,794,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_6078.jpg 112,453,665,1004,10
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_6100.jpg 375,325,675,820,8 1083,1155,1178,1283,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_6106.jpg 84,380,206,493,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_612.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_6232.jpg 661,832,1317,1387,11 593,1300,678,1394,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_6247.jpg 717,547,828,664,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_6255.jpg 546,640,699,847,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_6276.jpg 695,581,851,892,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_633.jpg 454,345,750,715,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_636.jpg 374,233,937,1155,7
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_640.jpg 632,500,761,653,11 459,726,612,882,11
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_647.jpg 177,470,339,619,0 558,386,684,513,0 864,320,980,434,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_650.jpg 266,530,330,599,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_655.jpg 117,654,272,772,12 989,568,1117,704,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_66.jpg 767,144,963,371,2 424,725,1037,1433,4
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_676.jpg 800,514,842,588,0 717,509,748,548,0 887,990,935,1067,0 749,930,787,1000,0 757,1031,787,1084,0 705,687,746,756,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_688.jpg 210,528,999,923,3 988,481,1101,592,1 91,650,162,744,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_703.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_718.jpg 470,398,573,570,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_736.jpg 646,288,727,738,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_767.jpg 848,424,935,482,12
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_782.jpg 829,1184,921,1308,5
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_790.jpg 460,600,603,789,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_802.jpg 474,332,680,551,10
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_806.jpg 206,515,1037,1082,3 484,264,603,411,1 709,233,842,393,1 968,197,1111,389,1
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_810.jpg 351,577,536,886,3 601,536,736,828,3 241,772,269,806,0 293,934,323,963,0 283,668,309,696,0 300,299,372,335,12 119,539,163,583,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_816.jpg 851,768,986,912,2 398,837,502,989,2
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_82.jpg 465,827,665,1152,3 715,754,883,1101,3
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_822.jpg 135,246,200,607,13
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_830.jpg 731,476,782,538,8
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_844.jpg 508,431,706,910,6
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_88.jpg
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_886.jpg 499,728,767,1017,9
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_905.jpg 344,627,365,654,0 345,370,367,396,0 344,128,366,151,0 266,167,288,190,0 194,204,212,227,0 126,234,148,258,0 121,340,138,364,0 114,442,135,468,0 107,552,129,578,0 101,674,119,695,0 173,657,196,684,0 253,644,276,670,0 795,197,836,304,2 810,462,844,495,0 786,1011,824,1055,0
+C:\Users\Lenovo\Documents\yolov5-pytorch-main\VOCdevkit/VOC2007/JPEGImages/rotate_96.jpg 478,908,572,1045,8
